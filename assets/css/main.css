@@ -31,3 +31,32 @@ select{
 #bg1{
 	background-image: url("../images/slider1.jpg");
 }
+#bg2{
+	background-image: url("../images/banner1.jpg");
+	background-size: 100% 100%!important;
+}
+#bg3{
+	background-image: url("../images/banner2.jpg");
+	background-size: 100% 100%!important;
+}
+#bg4{
+	background-image: url("../images/client-bg.jpg");
+	background-size: 100% 100%!important;
+}
+.img-thumbnail{
+	background-color: transparent!important;
+	border-radius: 0!important;
+	border: 3px solid #ddd!important;
+}
+.text-white{
+	color:#fff;
+}
+.ml-7{
+	margin-left: 7%;
+}
+.mt-10{
+	margin-top: 10%;
+}
+.ml1{
+	margin-left: 20%;
+}
